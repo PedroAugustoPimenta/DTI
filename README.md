@@ -4,7 +4,7 @@
 
 Caso não tenha instalado o Node.js, favor fazer a instalação no site do Node.
 
-#inicialização do projeto
+# inicialização do projeto
 
 No terminal abra a pasta onde se encontra os arquivos.
 Com o node instalado, execute o comando "node ./Canil.js".
