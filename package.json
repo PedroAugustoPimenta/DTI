@@ -1,0 +1,11 @@
+{
+  "name": "dti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Canil.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Augusto Pimenta",
+  "license": "ISC"
+}
